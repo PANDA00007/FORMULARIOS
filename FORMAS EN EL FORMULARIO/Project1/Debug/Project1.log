@@ -1,0 +1,14 @@
+﻿  MyForm.cpp
+C:\Users\jimen\OneDrive\Escritorio\CICLO II\POO\FORMULARIOS\Project1\Project1\VecFiguras.h(33,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jimen\OneDrive\Escritorio\CICLO II\POO\FORMULARIOS\Project1\Project1\VecFiguras.h(46,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jimen\OneDrive\Escritorio\CICLO II\POO\FORMULARIOS\Project1\Project1\VecFiguras.h(46,84): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jimen\OneDrive\Escritorio\CICLO II\POO\FORMULARIOS\Project1\Project1\VecFiguras.h(49,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jimen\OneDrive\Escritorio\CICLO II\POO\FORMULARIOS\Project1\Project1\VecFiguras.h(49,85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jimen\OneDrive\Escritorio\CICLO II\POO\FORMULARIOS\Project1\Project1\VecFiguras.h(52,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jimen\OneDrive\Escritorio\CICLO II\POO\FORMULARIOS\Project1\Project1\VecFiguras.h(52,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jimen\OneDrive\Escritorio\CICLO II\POO\FORMULARIOS\Project1\Project1\VecFiguras.h(55,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jimen\OneDrive\Escritorio\CICLO II\POO\FORMULARIOS\Project1\Project1\VecFiguras.h(55,82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jimen\OneDrive\Escritorio\CICLO II\POO\FORMULARIOS\Project1\Project1\VecFiguras.h(58,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jimen\OneDrive\Escritorio\CICLO II\POO\FORMULARIOS\Project1\Project1\VecFiguras.h(58,86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project1.vcxproj -> C:\Users\jimen\OneDrive\Escritorio\CICLO II\POO\FORMULARIOS\Project1\Debug\Project1.exe
